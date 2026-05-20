@@ -12,10 +12,7 @@
 - GitHub Pages workflow в `.github/workflows/deploy.yml`
 - Проектная документация в `docs/`
 
-## Админ
 
-- Логин: `skwizzy22`
-- Пароль: `123456`
 
 ## Запуск
 
